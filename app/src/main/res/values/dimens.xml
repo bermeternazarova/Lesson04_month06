@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="device60p">60dp</dimen>
+    <dimen name="device20p">20dp</dimen>
+    <dimen name="device80p">80dp</dimen>
+    <dimen name="device4p">4dp</dimen>
+</resources>
